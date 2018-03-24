@@ -10,5 +10,11 @@ package tugasspbo;
  * @author User
  */
 public class MotorAksi {
+    public static void main(String[] args) {
+        Motor yamaha = new Motor();
+        Motor Honda = new Motor();
+        Motor Kawasaki = new Motor();
+        
+    }
     
 }
