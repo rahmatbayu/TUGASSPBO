@@ -34,6 +34,9 @@ public class MotorAksi {
         Kawasaki.warna="Hitam Doff";
         Kawasaki.bahanbakar="Pertamax Turbo";
         
+        yamaha.cetakInfo();
+        Honda.cetakInfo();
+        Kawasaki.cetakInfo();
         
     }
     
